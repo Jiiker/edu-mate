@@ -8,7 +8,7 @@ const Home = () => {
       <h1 className='text-white font-serif text-6xl'>Your Edumate</h1>
       {/* 페이지 내용 */}
       <div
-        className={`grid grid-cols-40 grid-flow-row auto-rows-[32px] gap-2`}
+        className={`grid grid-cols-40 gap-1`}
         style={{
           width: "1596px",
           height: "796px",
